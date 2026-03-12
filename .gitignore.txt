@@ -1,0 +1,7 @@
+.vs/
+[Bb]in/
+[Ob]j/
+out/
+dist/
+node_modules/
+.env
