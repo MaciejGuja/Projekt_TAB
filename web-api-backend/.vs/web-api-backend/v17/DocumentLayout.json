@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|c:\\users\\macko\\source\\repos\\projekt_tab\\web-api-backend\\web-api-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|solutionrelative:web-api-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|c:\\users\\macko\\source\\repos\\projekt_tab\\web-api-backend\\web-api-backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|solutionrelative:web-api-backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|c:\\users\\macko\\source\\repos\\projekt_tab\\web-api-backend\\web-api-backend\\models\\modelproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|solutionrelative:web-api-backend\\models\\modelproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|c:\\users\\macko\\source\\repos\\projekt_tab\\web-api-backend\\web-api-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|solutionrelative:web-api-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|c:\\users\\macko\\source\\repos\\projekt_tab\\web-api-backend\\web-api-backend\\web-api-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|solutionrelative:web-api-backend\\web-api-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|c:\\users\\macko\\source\\repos\\projekt_tab\\web-api-backend\\web-api-backend\\web-api-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{147635A2-3F04-4D6B-A723-5A3C7FA8D44D}|web-api-backend\\web-api-backend.csproj|solutionrelative:web-api-backend\\web-api-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "web-api-backend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "web-api-backend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:15:04.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelProducts.cs",
+              "DocumentMoniker": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\Models\\ModelProducts.cs",
+              "RelativeDocumentMoniker": "web-api-backend\\Models\\ModelProducts.cs",
+              "ToolTip": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\Models\\ModelProducts.cs",
+              "RelativeToolTip": "web-api-backend\\Models\\ModelProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:17:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web-api-backend",
+              "DocumentMoniker": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\web-api-backend.csproj",
+              "RelativeDocumentMoniker": "web-api-backend\\web-api-backend.csproj",
+              "ToolTip": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\web-api-backend.csproj",
+              "RelativeToolTip": "web-api-backend\\web-api-backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T15:14:44.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "web-api-backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\appsettings.json",
+              "RelativeToolTip": "web-api-backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T15:13:46.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "web-api-backend.http",
+              "DocumentMoniker": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\web-api-backend.http",
+              "RelativeDocumentMoniker": "web-api-backend\\web-api-backend.http",
+              "ToolTip": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\web-api-backend.http",
+              "RelativeToolTip": "web-api-backend\\web-api-backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-24T15:10:13.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\Program.cs",
+              "RelativeDocumentMoniker": "web-api-backend\\Program.cs",
+              "ToolTip": "C:\\Users\\macko\\source\\repos\\Projekt_TAB\\web-api-backend\\web-api-backend\\Program.cs",
+              "RelativeToolTip": "web-api-backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:09:49.13Z",
+              "EditorCaption": ""
             }
           ]
         }
